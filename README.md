@@ -1,6 +1,9 @@
-<div id="header" aling="center">
-  <img src="https://media.giphy.com/media/h408T6Y5GfmXBKW62l/giphy.gif" width="200">
-  <h1 aling="center">Hello 👋 my name is ⚡Andres Suarez⚡</h1>
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/h408T6Y5GfmXBKW62l/giphy.gif" width="200"/>
+  <h1 align="center">Hello 👋 my name is ⚡Andres Suarez⚡</h1>
+  <h3 align="center">
+    I am a Colombian Web Developer, I am working with Reactjs and learning the MERN stack, I am also studying Systems Engineering at the University of Cordoba. 
+  </h3>
 </div>
 
 <!--
