@@ -1,4 +1,7 @@
-### Hi there 👋
+<div id="header" aling="center">
+  <img src="https://media.giphy.com/media/h408T6Y5GfmXBKW62l/giphy.gif" width="200">
+  <h1 aling="center">Hello 👋 my name is ⚡Andres Suarez⚡</h1>
+</div>
 
 <!--
 **AndresSuarezz/AndresSuarezz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
