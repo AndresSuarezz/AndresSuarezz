@@ -1,40 +1,44 @@
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/h408T6Y5GfmXBKW62l/giphy.gif" width="200"/>
-  <h1 align="center">Hello 👋 my name is ⚡Andres Suarez⚡</h1>
-  <h3 align="center">
-    I am a Colombian Web Developer, I am working with Reactjs and learning the MERN stack, I am also studying Systems Engineering at the Universidad De Cordoba. 
-  </h3>
-</div>
-
-<!-- STATS -->
-<div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=AndresSuarezz&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="Andres Suarez github stats" />
-  
-<!-- Most Used Languajes -->
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AndresSuarezz&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" />
-</div>
-
-<!-- Trophy -->
-<!--
+<!-- PROFILE IMAGE -->
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=AndresSuarezz&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
-</p> 
--->
+  <img src="https://res.cloudinary.com/dxmwapxmo/image/upload/v1746245101/suarez.jpg" height="200" />
+</p>
 
-### Languages
-ENGLISH ⭐⭐⭐
+<!-- HEADER -->
+<h1 align="center">Hello, I'm Andrés Suárez</h1>
+<h3 align="center">
+  I'm a Backend Developer specializing in building robust APIs and scalable solutions 👀
+</h3>
 
-<!--
-**AndresSuarezz/AndresSuarezz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+- 🌍 Based in Colombia
+- 🎧 Music lover (see my Spotify below!)
+- 🌱 Currently exploring new technologies to improve scalability and performance
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg" height="40" alt="nestjs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo"  />
+</div>
+
+<div align="center">
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=AndresSuarezz&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="Andres Suarez github stats" />
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AndresSuarezz&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" alt="Top Languages" />
+</div>
+
+## 🌐 Languages
+
+- **English:** ⭐⭐⭐
+
+<div align="center">
+  <a href="https://open.spotify.com/user/22c2gjwu7ixe6kl6js6nz46sq">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=22c2gjwu7ixe6kl6js6nz46sq&count=1&unique=true" alt="Spotify recently played" />
+  </a>
+</div>
