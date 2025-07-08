@@ -1,8 +1,9 @@
 <!-- PROFILE IMAGE -->
+<!--
 <p align="center">
   <img src="https://res.cloudinary.com/dxmwapxmo/image/upload/v1746245101/suarez.jpg" height="200" />
 </p>
-
+-->
 <!-- HEADER -->
 <h1 align="center">Hello, I'm Andrés Suárez</h1>
 <h3 align="center">
