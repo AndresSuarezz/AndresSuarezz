@@ -15,7 +15,6 @@
 ### 🚀 About Me
 
 - 📍 **Location:** Montería, Colombia 🇨🇴
-- 💻 **Currently working as:** Fullstack Engineer & Software Consultant at **Meritum Dev**.
 - 🛠️ **Core Expertise:** Building scalable REST APIs, microservices, and modernizing legacy systems with **NestJS**, **Node.js**, and **PostgreSQL**.
 - 🏆 **Achievement Unlocked:** Co-founded **Lambda** (an edtech platform) and won 2nd place at Universidad de Córdoba's Tech & Entrepreneurship Day!
 - ⚡ **Fun Fact:** When I'm not optimizing SQL queries, Python scripts, or Docker containers, you'll find me playing *League of Legends* or hunting for good music 🎧🎮
